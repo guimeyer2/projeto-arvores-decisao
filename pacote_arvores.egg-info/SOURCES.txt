@@ -1,0 +1,13 @@
+README.md
+setup.py
+pacote_arvores/__init__.py
+pacote_arvores/base_tree.py
+pacote_arvores/c45.py
+pacote_arvores/cart.py
+pacote_arvores/id3.py
+pacote_arvores/utils.py
+pacote_arvores.egg-info/PKG-INFO
+pacote_arvores.egg-info/SOURCES.txt
+pacote_arvores.egg-info/dependency_links.txt
+pacote_arvores.egg-info/requires.txt
+pacote_arvores.egg-info/top_level.txt
