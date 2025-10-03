@@ -63,12 +63,12 @@ predictions = id3.predict(X)
 ## Resultados
 
 | Algoritmo | Play Tennis | Titanic |
-|-----------|-------------|---------|
-| ID3       | 100%        | N/A*    |
+| --------- | ----------- | ------- |
+| ID3       | 100%        | N/A\*   |
 | C4.5      | 100%        | 82%     |
 | CART      | 93%         | 79%     |
 
-*ID3 requer discretização para atributos contínuos
+\*ID3 requer discretização para atributos contínuos
 
 ## Autor
 
